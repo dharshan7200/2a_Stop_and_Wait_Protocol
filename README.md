@@ -40,8 +40,9 @@ while True:
 
 
 ## OUTPUT
-![Screenshot (11)](https://github.com/DHARANIDHARAN03K/2a_Stop_and_Wait_Protocol/assets/144870858/aadf08ac-febe-450b-bbdc-9e1ffa275fc7)
-![Screenshot (12)](https://github.com/DHARANIDHARAN03K/2a_Stop_and_Wait_Protocol/assets/144870858/2313a661-b416-4859-abd6-2d36cc76bc1f)
+![Screenshot 2024-03-30 101735](https://github.com/dharshan7200/2a_Stop_and_Wait_Protocol/assets/138850116/76bbc975-eeaf-40bc-9971-c8f5b91c91fd)
+
+![Screenshot 2024-03-30 101816](https://github.com/dharshan7200/2a_Stop_and_Wait_Protocol/assets/138850116/96aae133-4a6a-4f4f-8862-8f8b0b33dedd)
 
 
 ## RESULT
